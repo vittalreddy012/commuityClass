@@ -1,0 +1,30 @@
+/* 
+    Document   : combobox
+    Created on : Feb 21, 2017, 5:22:02 PM
+    Author     : 1333626
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.custom-combobox {
+                position: relative;
+                display: inline-block;
+            }
+            .custom-combobox-toggle {
+                display: none;
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                margin-left: -1px;
+                padding: 0;
+            }
+            .custom-combobox-input {
+                margin: 0;
+                padding: 5px 10px;
+            }
+            #schoolIdInput {
+                width:300px;
+            }
+            #anchorId {
+                display: none;
+            }

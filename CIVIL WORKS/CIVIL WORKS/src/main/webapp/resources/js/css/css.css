@@ -1,0 +1,88 @@
+h3 { font-size:16px ; font-family: Arial; font-weight:bold; color:#0d5ebf; text-align:center}
+.table {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#000000;
+	background-color:#505050; 
+}
+.table tr th {
+	background-color:#d5dfe9; 
+	padding: 5px;
+	color:#000;
+        text-align:left;
+        height:24px;
+}
+.table tr td {
+	height:20px;
+	padding: 5px;
+        background-color: #fff;
+}
+table.altrowstable {
+    border-right:1px #083254 solid;
+    border-top:1px #083254 solid;
+}
+table.altrowstable th {
+    background-color:#0E94C5;
+    text-align:center;
+    border-bottom:1px #083254 solid; padding-left: 3px; padding-right: 3px;
+    border-left:1px #083254 solid;
+    vertical-align:middle;
+    font-size:11px; font-family: verdana;
+    height: 35px;
+    font-weight:bold;
+    color:#fff;
+    padding:5px;
+}
+table.altrowstable td {
+    text-align:right;
+    border-bottom:1px #083254 solid;
+    border-left:1px #083254 solid;
+    vertical-align:middle; 
+    padding-left: 3px; 
+    padding-right: 3px;
+    height: 30px;
+    font-size:11px; 
+    font-family: verdana; 
+    font-weight:normal;
+    height:20px;padding:5px;
+} 
+
+.oddrowcolor{
+    background-color:#D9F4FD;
+}
+.evenrowcolor{
+    background-color:#fff;
+}
+
+/* Form Starts */
+
+.gry-bg {
+	background-color:#959595; height:5px;
+}
+
+.formbg1 {
+	background-color:#e6e6e6; padding-left:8px; text-align:left; border-bottom: #ccc solid 1px; vertical-align:middle; font-size:12px;  font-weight:700; height:30px; color:#4c4c4c;
+}
+.formbg2 {
+	background-color:#f6f6f6; padding-left:8px; padding-top:7px;  border-bottom:1px #b0b0b0 solid; text-align:left; vertical-align:middle; font-size:12px;  font-weight:800; height:30px;
+}
+
+.formminihd 
+{
+    background-color:#bcd8ed;  padding-bottom:4px; padding-top:4px; font-weight:bold; color:#000000; padding-left:10px; text-align:left;
+}
+fieldset
+ {
+  margin:5px;    
+  border: 2px solid #2788c3;
+  padding:6px;
+}
+legend {
+  font-family:Verdana, Geneva, sans-serif;
+  font-size:14px;
+  border: 2px solid #2db8a3;
+  border-radius: 6px;
+  background-color:#2788c3;
+  padding: 3px;
+  color:#ffffff;
+}

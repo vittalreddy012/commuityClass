@@ -1,0 +1,30 @@
+@font-face {
+	font-family: 'DSDIGI';
+	src: url('../fonts/DSDIGI.eot');
+	src: local('DSDIGI'), url('../fonts/DSDIGI.woff') format('woff'), url('../fonts/DSDIGI.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_1091">Text with this font applied</p> */
+.fontsforweb_fontid_1091 {
+	font-family: 'DSDIGI' !important;
+}
+
+
+.digital{
+	font-family: 'DSDIGI' !important;
+	margin-top: 0px !important;
+	letter-spacing:  2px;
+	font-weight: 600;
+	font-size: 21px !important;
+    vertical-align: middle;
+    color: #000 !important;
+}
+
+.gvdigital{
+	font-family: 'DSDIGI' !important;
+	margin-top: 0px;
+	letter-spacing:  2px;
+	font-weight: 600;
+	font-size: 20px;
+	vertical-align: middle;
+}
+/* Font downloaded from FontsForWeb.com */
